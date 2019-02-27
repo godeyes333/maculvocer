@@ -1,26 +1,44 @@
 #!/bin/sh
+print """
+                   G O D  E Y E S 
+                  .:/oosyysso+:.
+             .+ydMMMMMMMMMMMMMMMMmy+-             
+         `/yNMMMMMMMMMmhhhhmMMMMMMMMMNy/`         
+       /hMMMMMMMMMNs:`       -sNMMMMMMMMMh/       
+    .sNMMMMMMMMMMs`             oMMMMMMMMMMNs.    
+  -yMMMMMMMMMMMM/       ``       :MMMMMMMMMMMMh-  
+.yMMMMMMMMMMMMMy      +mMMmo      sMMMMMMMMMMMMMh.
+mMMMMMMMMMMMMMM+     `MMMMMM.     /MMMMMMMMMMMMMMN
+.hMMMMMMMMMMMMMy      oNMMNo      sMMMMMMMMMMMMMh-
+  -hMMMMMMMMMMMM:       ``       -MMMMMMMMMMMMh:  
+    .sNMMMMMMMMMMo              +NMMMMMMMMMNs-    
+      `/hMMMMMMMMMNo-        -omMMMMMMMMMd/`      
+         `/hNMMMMMMMMMdhyyhdNMMMMMMMMNh+`         
+             -+ymMMMMMMMMMMMMMMMMmyo-             
+                 `-/+osyyyyso+/-`"
+(T3/Telegram: @not3l3s)
+"""
 
 
 
-
-echo "{×}==================================={×}"|lolcat
-echo "Creator: godeyescyber.com"|lolcat
-echo "-----------------------------------------"|lolcat
-echo "Team   : 1.godeyes cyber team"|lolcat
-echo "         2.succesfull ndeso families"|lolcat
-echo "-----------------------------------------"|lolcat
-echo "Thanks : > KEMINFO|lolcat
-echo "         > Police of Termux |lolcat
-echo "         > KOMISIONER TERMUX SEJAWA"|lolcat
-echo "{×}==================================={×}"|lolcat
+echo "{×}==================================={×}"
+echo "Creator: godeyescyber.com"
+echo "-----------------------------------------"
+echo "Team   : 1.godeyes cyber team"
+echo "         2.succesfull ndeso families"
+echo "-----------------------------------------"
+echo "Thanks : > KEMINFO|lolcat"
+echo "         > Police of Termux"
+echo "         > KOMISIONER TERMUX SEJAWA"
+echo "{×}==================================={×}"
 echo ""   
-echo "Oke langsung mawon nggih sederek "|lolcat
-echo "___________________________________________________"|lolcat
+echo "Oke langsung mawon nggih sederek "
+echo "___________________________________________________"
 echo ""
-echo "1.> MACUL PULSA KULO   "$red
+echo "1.> MACUL PULSA KULO   "$yellow
 echo ""
 echo "2.> MACUL PULSA RENCANG     "$green
-echo "___________________________________________________"|lolcat
+echo "___________________________________________________"
 
 echo ""
 echo "\033[34;1m  
@@ -31,7 +49,7 @@ read -p " PILIHAN=> " pilih
 if [ $pilih = 1 ]
 then
 clear
-figlet MACUL PULSA | lolcat
+figlet MACUL PULSA 
 echo "\033[34;1msabar ojo kesusu"
 echo ""
 sleep 1
@@ -45,35 +63,34 @@ read -p "nomor pake +62 eaa =>" nomor
 echo "Sabar nggih lagi ngirim kii"  
 echo ""
 echo ""
-echo "jumlah pulsa :" $pulsa|lolcat
-echo "ke nomer :" $nomor |lolcat
+echo "jumlah pulsa :" $pulsa
+echo "ke nomer :" $nomor 
 echo ""
 echo ""
 sleep 2
 clear
-figlet LOADING|lolcat
+figlet LOADING
 sleep 15
 echo ""
-echo "Berhasil macul pulsa anda 100%"|lolcat
+echo "Berhasil macul pulsa anda 100%"
 echo ""
 sleep 2
-echo "selamat pengisian pulsa anda sukses"|lolcat
-echo "matikan segera android anda tunggu 5 menit"|lolcat
+echo "selamat pengisian pulsa anda sukses"
+echo "matikan segera android anda tunggu 5 menit"
 echo ""
 sleep 2
-echo "ya uda makasih eaa besuk jangan ngisi lagi"|lolcat
-echo "pesan gw"|lolcat
+echo "ya uda makasih eaa besuk jangan ngisi lagi"
+echo "pesan kulo"
 sleep 2
-echo "kalean semua BURIQQ, gw doang yg GANNSS"|lolcat
-echo "created by godeyes cyber"|lolcat
+echo "kalean semua harus belajar spy tak dibodohi"
+echo "created by godeyes cyber"
 sleep 2
-figlet B . Y . E|lolcat
 fi
 
 if [ $pilih = 2 ]
 then
 clear
-figlet SEND PULSA | lolcat
+figlet SEND PULSA
 echo "\033[34;1msabar asw"
 echo ""
 sleep 1
@@ -92,26 +109,25 @@ read -p "=>" c
 echo ""
 echo ""
 sleep 1
-echo "nomor target : " $c|lolcat
-echo "OPERATOR     : " $b|lolcat
-echo "Jumlah pulsa : " $a |lolcat
+echo "nomor target : " $c
+echo "OPERATOR     : " $b
+echo "Jumlah pulsa : " $a 
 sleep 2
 clear
-figlet LOADING|lolcat
+figlet LOADING
 sleep 15
 echo ""
-echo "transaksi anda sukses"|lolcat
+echo "transaksi anda sukses"
 echo ""
 sleep 2
-echo "silahkan matikan android anda 5menit"|lolcat
-echo "mohon digunakan 3 kali sehari"|lolcat
+echo "silahkan matikan android anda 5menit"
+echo "mohon digunakan 3 kali sehari"
 echo ""
 sleep 2
-echo "ya uda makasih eaa uda coba tools gua"|lolcat
-echo "pesan gw"|lolcat
+echo "ya uda makasih eaa uda coba tools gua"
+echo "pesan kulo"
 sleep 2
-echo "termux itu buat belajar"|lolcat
-echo "By.Mr.godeyes"|lolcat
+echo "termux itu buat belajar"
+echo "By.Mr.godeyes"
 sleep 2
-figlet B . Y . E|lolcat
 fi
