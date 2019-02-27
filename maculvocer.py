@@ -1,6 +1,4 @@
 #coding: utf-8
-import requests, urllib, os
-os.system('clear')
 print """   
                   G O D  E Y E S 
                   .:/oosyysso+:.
