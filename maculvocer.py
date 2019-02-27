@@ -1,6 +1,8 @@
-#!/bin/sh
-print """
-                   G O D  E Y E S 
+#coding: utf-8
+import requests, urllib, os
+os.system('clear')
+print """   
+                  G O D  E Y E S 
                   .:/oosyysso+:.
              .+ydMMMMMMMMMMMMMMMMmy+-             
          `/yNMMMMMMMMMmhhhhmMMMMMMMMMNy/`         
