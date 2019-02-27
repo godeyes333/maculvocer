@@ -1,4 +1,4 @@
-#coding: utf-8
+!/system/xbin/bash
 print """   
                   G O D  E Y E S 
                   .:/oosyysso+:.
