@@ -1,6 +1,7 @@
-#!/bin/bash
+#!/bin/sh
 
-figlet MACULVOCER.PHP |lolcat
+
+
 
 echo "{×}==================================={×}"|lolcat
 echo "Creator: godeyescyber.com"|lolcat
